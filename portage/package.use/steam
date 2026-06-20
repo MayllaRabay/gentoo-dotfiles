@@ -1,0 +1,3 @@
+games-util/steam-launcher abi_x86_32
+sys-libs/libudev-compat abi_x86_32
+games-util/game-device-udev-rules

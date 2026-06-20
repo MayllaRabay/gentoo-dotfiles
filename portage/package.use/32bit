@@ -1,0 +1,15 @@
+# Garante suporte 32 bits para drivers e libs de sistema
+media-libs/mesa abi_x86_x32
+media-libs/libglvnd abi_x86_32
+x11-libs/libX11 abi_x86_32
+x11-libs/libXext abi_x86_32
+x11-libs/libXrender abi_x86_32
+x11-libs/libXrandr abi_x86_32
+x11-libs/libXfixes abi_x86_32
+x11-libs/libXcursor abi_x86_32
+x11-libs/libXv abi_x86_32
+x11-libs/libXxf86vm abi_x86_32
+x11-libs/libXinerama abi_x86_32
+x11-libs/libXi abi_x86_32
+x11-libs/libXau abi_x86_32
+x11-libs/libXdmcp abi_x86_32

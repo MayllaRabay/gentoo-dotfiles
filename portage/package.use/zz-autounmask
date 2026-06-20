@@ -1,0 +1,21 @@
+# package.use# required by x11-libs/pango-1.57.0::gentoo
+# required by gui-apps/wofi-1.4.1::gentoo
+# required by gui-apps/wofi (argument)
+>=media-libs/freetype-2.14.1-r1 harfbuzz
+# required by dev-libs/libayatana-appindicator-0.5.94::gentoo
+# required by gui-apps/waybar-0.14.0::gentoo[tray]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libdbusmenu-16.04.0-r4 gtk3
+# required by app-emulation/wine-staging (argument)
+>=app-emulation/wine-staging-11.2 -abi_x86_32
+# required by games-util/lutris-0.5.19::gentoo
+# required by games-util/lutris (argument)
+>=x11-libs/gdk-pixbuf-2.42.12 jpeg
+# required by net-libs/webkit-gtk-2.48.5-r411::gentoo[gstreamer]
+# required by games-util/lutris-0.5.19::gentoo
+# required by games-util/lutris (argument)
+>=media-libs/gst-plugins-base-1.24.13 opengl
+# required by gnome-extra/nemo-6.4.5::gentoo
+# required by gnome-extra/nemo (argument)
+>=x11-libs/xapp-2.8.13 introspection

@@ -1,0 +1,12 @@
+gui-wm/hyprland
+gui-libs/aquamarine
+dev-libs/hyprutils
+dev-libs/hyprlang
+gui-libs/hyprcursor
+gui-libs/hyprutils
+gui-libs/hyprwayland-scanner
+dev-libs/hyprgraphics
+dev-cpp/glaze
+dev-libs/hyprland-protocols
+dev-util/hyprwayland-scanner
+gui-libs/xdg-desktop-portal-hyprland

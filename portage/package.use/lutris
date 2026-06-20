@@ -1,0 +1,4 @@
+app-emulation/wine-staging abi_x86_32 -wow64 truetype fontconfig
+app-emulation/wine-desktop-common abi_x86_32
+media-libs/mesa abi_x86_32
+media-libs/libsdl2 wayland gles2 abi_x86_32
